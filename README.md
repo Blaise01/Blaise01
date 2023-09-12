@@ -1,4 +1,14 @@
 ### Hi there 👋
+---
+
+I'm Balazs!
+- Currently in High School studying Software Development and Testing
+
+### 🔭 I’m currently working on...
+- Full Stack Websites
+
+### 🌱 I’m currently learning...
+- Python
 
 <!--
 **Blaise01/Blaise01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
