@@ -1,5 +1,5 @@
 ## **Hi there 👋**
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=blaise01.blaise01)](https://github.com/blaise01)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Blaise01.Blaise01)](https://github.com/blaise01)
 ---
 
 I'm Balazs!
