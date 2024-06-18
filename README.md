@@ -11,6 +11,3 @@ I'm Balazs!
 ## 🌱 I’m currently learning...
 - Python
 - TypeScript
-
-## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/balazs-domjan-b31951265/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
